@@ -1,6 +1,6 @@
 162.159.45.157:443#cloudflare.ipv4-1
 172.66.47.20:443#cloudflare.ipv4-2
-104.16.252.175:443:443#cloudflare.ipv4-3
+104.16.252.175:443#cloudflare.ipv4-3
 172.64.192.17:443#cloudflare.ipv4-4
 104.19.17.118:443#cloudflare.ipv4-5
 47.76.94.15:2053#HK
